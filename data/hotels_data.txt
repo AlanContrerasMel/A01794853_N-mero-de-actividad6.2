@@ -1,0 +1,2 @@
+H001|Hotel Luna|Ciudad X|10|10
+H002|Hotel Sol|Ciudad Y|5|5
