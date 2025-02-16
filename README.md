@@ -16,7 +16,7 @@ Se han implementado casos de prueba usando el módulo unittest para asegurar la 
 Cumplimiento de Estándares:
 El código cumple con PEP8 y no genera errores o advertencias significativas al ser analizado con flake8 y PyLint.
 
-MatriculaEstudiante_ActividadA6.2/
+A01794853_ActividadA6.2/
 ├── customer.py              # Definición de la clase Customer
 ├── hotel.py                 # Definición de la clase Hotel
 ├── reservation.py           # Definición de la clase Reservation
